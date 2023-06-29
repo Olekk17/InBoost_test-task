@@ -1,9 +1,4 @@
-# React TypeScript Starter Pack
+# This is my test task completion
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+mock: https://www.figma.com/file/k45g1tFoyTo5vURUtCNtaM/%D0%A2%D0%B5%D1%81%D1%82-Front?type=design&node-id=0-1&mode=design&t=634GzQz48LZpsOZk-0
+DEMO: https://olekk17.github.io/InBoost_test-task/
